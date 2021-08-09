@@ -14,11 +14,7 @@
    🟦 https://rinkeby.etherscan.io/tx/0x71d45ca23aaa95f2e7200508c08171715e607feb4d59b95af989daa28568f81d <br><br>
 
 5) A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed. <br><br>
-   🟦 
-
-    
-    
-    
+   🟦 ... :hourglass_flowing_sand: ... <br><br>
 
 
-🔴🟠🟡🟢🔵🟣🟤⚫⚪
+🔴 ![afbeelding](https://user-images.githubusercontent.com/5003779/128653357-f4b5826a-5b84-48b2-8386-b60951d71d72.png)
