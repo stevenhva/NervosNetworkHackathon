@@ -9,6 +9,7 @@
 ### 1.b. Short videos<br><br>
 [![image](https://img.youtube.com/vi/srp-sVMUk-w/0.jpg)](https://youtu.be/srp-sVMUk-w) 
 [![image](https://img.youtube.com/vi/FcVwLMi0vMw/0.jpg)](https://youtu.be/FcVwLMi0vMw)
+[![image](https://img.youtube.com/vi/IH8EYsC4pkE/0.jpg)](https://youtu.be/IH8EYsC4pkE)
 ### 2. Links <br><br>
    🟦 https://github.com/lqne/polyjuice-dapp-port.git <br>
    🟦 https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br>
