@@ -10,13 +10,13 @@
 [![image](https://img.youtube.com/vi/srp-sVMUk-w/0.jpg)](https://youtu.be/srp-sVMUk-w) 
 [![image](https://img.youtube.com/vi/FcVwLMi0vMw/0.jpg)](https://youtu.be/FcVwLMi0vMw)
 [![image](https://img.youtube.com/vi/IH8EYsC4pkE/0.jpg)](https://youtu.be/IH8EYsC4pkE)
-### 2. Links <br><br>
+### 2. Links <br>
    🟦 https://github.com/lqne/polyjuice-dapp-port.git <br>
-   🟦 https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br>
+   🟦 https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br><br>
 ### 3.a. Hash of the deployment transaction <br>
-   🟣 0x15fc344789bb80689f0fb6b58a4608b62fb461207ea7804c8fa2dadc8305220b <br>
+   🟣 0x15fc344789bb80689f0fb6b58a4608b62fb461207ea7804c8fa2dadc8305220b <br><br>
 ### 3.b. Deployed contract address <br>
-   ⚪ 0xBA40af9218713138314De80340B842C1fFf3Ba16 <br>
+   ⚪ 0xBA40af9218713138314De80340B842C1fFf3Ba16 <br><br>
 ### 3.c. ABI of deployed smart contract <br>
    🟢 {
   "contractName": "TasksContract",
