@@ -11,8 +11,9 @@
 [![image](https://img.youtube.com/vi/FcVwLMi0vMw/0.jpg)](https://youtu.be/FcVwLMi0vMw)
 [![image](https://img.youtube.com/vi/IH8EYsC4pkE/0.jpg)](https://youtu.be/IH8EYsC4pkE)
 ### 2. Links <br>
-   🟦 https://github.com/lqne/polyjuice-dapp-port.git <br>
-   🟦 https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br><br>
+   🟦 My implementation: https://github.com/stevenhva/tasks-dapp-polyjuice <br>
+   🟦 Origin repository #1: https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br>
+   🟦 Origin repository #2: https://github.com/lqne/polyjuice-dapp-port.git <br><br>
 ### 3.a. Hash of the deployment transaction <br>
    🟣 0x15fc344789bb80689f0fb6b58a4608b62fb461207ea7804c8fa2dadc8305220b <br><br>
 ### 3.b. Deployed contract address <br>
