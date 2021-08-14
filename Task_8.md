@@ -9,7 +9,7 @@ A link to the GitHub repository with your EVM application that integrates Force 
 ### 1.a. Screenshots of Layer 2 DApp with Force Bridge support. <br><br>
 ![image](https://user-images.githubusercontent.com/5003779/129457455-69a72427-e296-49bd-b7cb-0a6f178bbaaf.png) <br>
 ![image](https://user-images.githubusercontent.com/5003779/129457449-f8afa64a-f8a3-4f19-9fab-d0ce4867c3bf.png) <br>
-![image](https://user-images.githubusercontent.com/5003779/129457502-dd0941eb-ddc6-45c5-bdb4-81ab6552d16d.png) <br><br>
+![image](https://user-images.githubusercontent.com/5003779/129457502-dd0941eb-ddc6-45c5-bdb4-81ab6552d16d.png) <br><br><br><br>
 ![image](https://user-images.githubusercontent.com/5003779/129457526-362b8809-16c3-42cb-99ec-ca7bb49714b0.png) <br><br>
 ### 2. Links <br>
    🟦 My implementation: https://github.com/stevenhva/tasks-dapp-polyjuice-force-bridge <br>
