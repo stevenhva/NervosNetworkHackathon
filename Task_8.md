@@ -1,4 +1,4 @@
-# 8. Modify the Ported dApp so it Supports Ethereum Assets via Force Bridge
+## 8. Modify the Ported dApp so it Supports Ethereum Assets via Force Bridge
 
 ## Task Submission
 
@@ -7,7 +7,7 @@ The address of the SUDT-ERC20 Proxy Contract that you deployed (in text format).
 A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 
 ### 1.a. Screenshots of Layer 2 DApp with Force Bridge support. <br><br>
-![image](https://user-images.githubusercontent.com/5003779/129457455-69a72427-e296-49bd-b7cb-0a6f178bbaaf.png) <br>
+![image](https://user-images.githubusercontent.com/5003779/129457756-66aa0183-ecd8-4f3c-b128-dd5f091eb5ba.png) <br>
 ![image](https://user-images.githubusercontent.com/5003779/129457449-f8afa64a-f8a3-4f19-9fab-d0ce4867c3bf.png) <br>
 ![image](https://user-images.githubusercontent.com/5003779/129457502-dd0941eb-ddc6-45c5-bdb4-81ab6552d16d.png) <br><br><br><br>
 ![image](https://user-images.githubusercontent.com/5003779/129457526-362b8809-16c3-42cb-99ec-ca7bb49714b0.png) <br><br>
