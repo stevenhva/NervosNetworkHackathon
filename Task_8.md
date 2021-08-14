@@ -2,10 +2,6 @@
 
 ## Task Submission
 
-
-The address of the SUDT-ERC20 Proxy Contract that you deployed (in text format).
-A link to the GitHub repository with your EVM application that integrates Force Bridge support.
-
 ### 1.a. Screenshots of Layer 2 DApp with Force Bridge support. <br><br>
 ![image](https://user-images.githubusercontent.com/5003779/129457756-66aa0183-ecd8-4f3c-b128-dd5f091eb5ba.png) <br>
 ![image](https://user-images.githubusercontent.com/5003779/129457449-f8afa64a-f8a3-4f19-9fab-d0ce4867c3bf.png) <br>
