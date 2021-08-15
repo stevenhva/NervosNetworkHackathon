@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/5003779/129457502-dd0941eb-ddc6-45c5-bdb4-81ab6552d16d.png) <br><br><br><br>
 ![image](https://user-images.githubusercontent.com/5003779/129457526-362b8809-16c3-42cb-99ec-ca7bb49714b0.png) <br><br>
 ### 1.b. Video<br><br>
-[![image](https://img.youtube.com/vi/kDwXwSQkdSo/0.jpg)](https://youtu.be/kDwXwSQkdSo)
+[![image](https://img.youtube.com/vi/n1qOWvMRi_I/0.jpg)](https://youtu.be/n1qOWvMRi_I)
 ### 2. Links <br>
    🟦 My implementation: https://github.com/stevenhva/tasks-dapp-polyjuice-force-bridge <br>
    🟦 Origin repository #1: https://github.com/AndrewJBateman/blockchain-ethereum-contract.git <br>
