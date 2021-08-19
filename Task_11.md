@@ -7,9 +7,9 @@
 ### 2. A link to the Layer 1 address you funded on the Testnet Explorer.<br><br>
    🟦 https://explorer.nervos.org/aggron/address/ckt1qyq8p7xman2p9tj8nlv9l0swphxhtxafhq2sczq7j9 <br><br>   
 ### 3. A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.<br><br>
-   ![image](https://user-images.githubusercontent.com/5003779/130154608-b1202d71-b95f-49d9-aeb6-4fe7178971a5.png) <br><br>
+   ![image](https://user-images.githubusercontent.com/5003779/130155007-846a1797-b4b7-4d00-9b06-fd1a399a3e4f.png) <br><br>
 ### 4. A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.<br><br>
-   ![image](https://user-images.githubusercontent.com/5003779/130154111-e6333e0a-cf84-4cc4-9812-1edff6a48671.png) <br><br>
+   ![image](https://user-images.githubusercontent.com/5003779/130154608-b1202d71-b95f-49d9-aeb6-4fe7178971a5.png) <br><br>
 ### 5. The transaction hash of the "Contract call" from the console output (in text format).<br><br>
    🟦 0x7c890facb506e73202defe04248ccc87b6e31ea0784ac5dfe59f9bd84f9f7ca2 <br><br>
 ### 6. The contract address that you called (in text format).<br><br>
