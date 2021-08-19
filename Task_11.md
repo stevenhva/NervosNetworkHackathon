@@ -11,7 +11,7 @@
 ### 4. A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.<br><br>
    ![image](https://user-images.githubusercontent.com/5003779/130154608-b1202d71-b95f-49d9-aeb6-4fe7178971a5.png) <br><br>
 ### 5. The transaction hash of the "Contract call" from the console output (in text format).<br><br>
-   🟦 0x7c890facb506e73202defe04248ccc87b6e31ea0784ac5dfe59f9bd84f9f7ca2 <br><br>
+   🟦 0xe737bd8a1f5462b44f8e858e109b988c6637e84262250dfe50914719296a6b25 <br><br>
 ### 6. The contract address that you called (in text format).<br><br>
    🟦 0x4851F00a1082B127326736A4725560beac29E302 <br><br>
 ### 7. The ABI for contract you made a call on (in text format).<br><br>
